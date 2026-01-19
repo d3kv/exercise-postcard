@@ -46,19 +46,14 @@ button {
 	border-bottom: solid rgb(100, 100, 100);
 }
 
-button:hover {
-}
-input {
-	border: none;
-	border-bottom: rgb(180, 180, 180);
-}
-
 p {
 	font-size: smaller;
 }
 
 input {
 	color: black;
+	border: none;
+	border-bottom: rgb(180, 180, 180);
 }
 input::placeholder {
 	color: gray;
